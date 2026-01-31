@@ -52,8 +52,7 @@ function App() {
               {showAns && (
                 <>
                   <p>
-                    Movies Name: {f.movie}&nbsp; &nbsp; &nbsp; Characters:{" "}
-                    {f.character}
+                    Movies: {f.movie}&nbsp; &nbsp; &nbsp; Charac: {f.character}
                   </p>
                 </>
               )}
