@@ -41,7 +41,7 @@ function App() {
 
   return (
     <div className="app">
-      <h4 className="header">{heading.toUpperCase()}</h4>
+      <h4 className="header">{heading.toLocaleLowerCase()}</h4>
       {Data.filter((e: any, i: number) => i === index).map(
         (f: any, c: number) => (
           <div key={c}>
