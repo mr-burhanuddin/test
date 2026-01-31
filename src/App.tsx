@@ -52,7 +52,7 @@ function App() {
               {showAns && (
                 <>
                   <p>
-                    Movie: {f.movie}&nbsp; &nbsp; &nbsp; Characters:{" "}
+                    Movies Name: {f.movie}&nbsp; &nbsp; &nbsp; Characters:{" "}
                     {f.character}
                   </p>
                 </>
