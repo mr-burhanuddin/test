@@ -52,14 +52,14 @@ function App() {
               {showAns && (
                 <>
                   <p>
-                    Movie: {f.movie}&nbsp; &nbsp; &nbsp; Character:{" "}
+                    Movie: {f.movie}&nbsp; &nbsp; &nbsp; Character:{"  "}
                     {f.character}
                   </p>
                 </>
               )}
             </div>
           </div>
-        )
+        ),
       )}
 
       <div className="btnContainer">
@@ -118,6 +118,6 @@ export default App;
  **  -------------|----------|----------------------------------------------------
  **  2025-05-24  |  Burhanuddin  |  This Is The Audit Related Changes
  **  -------------|----------|----------------------------------------------------
-**  2025-05-27  |  Burhanuddin  |  TestAudit
-**  -------------|----------|----------------------------------------------------
+ **  2025-05-27  |  Burhanuddin  |  TestAudit
+ **  -------------|----------|----------------------------------------------------
  */

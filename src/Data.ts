@@ -53,7 +53,7 @@ export const Data = [
   {
     dailog: "Kauva Kitna bhi washing machine mein naha le….bagula nahi banta",
     movie: "Hungama",
-    character: "Radheshyam Tiwari (Paresh Rawal)",
+    character: "Radheshyam Tiwari (Paresh Rawal )",
   },
   {
     dailog:
